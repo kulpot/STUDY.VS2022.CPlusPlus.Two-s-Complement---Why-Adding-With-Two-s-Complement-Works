@@ -450,6 +450,23 @@ doit proc			; proc -- procedure
 	; --------
 	;  1 1 0  = -2
 
+	; ---------------------------------------------- Two's Complement - Why Adding With Two's Complement Works ------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=TJOl0iqesC4&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=27
+
+	;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
