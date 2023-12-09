@@ -453,17 +453,15 @@ doit proc			; proc -- procedure
 	; ---------------------------------------------- Two's Complement - Why Adding With Two's Complement Works ------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=TJOl0iqesC4&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=27
 
-	;
-
-
-
-
-
-
-
-
-
-
+	;	Binary	|	Decimal(unsigned)|	Decimal(Two's signed integer)
+	;	 100	|	4				 |	-4				
+	;	 101	|	5				 |	-3				
+	;	 110	|	6				 |	-2				
+	;	 111	|	7				 |	-1				
+	;	 000	|	0				 |	 0   			
+	;	 001	|	1				 |	 1				
+	;	 010	|	2				 |	 2				
+	;	 011	|	3				 |	 3	
 
 
 
